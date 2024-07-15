@@ -25,27 +25,28 @@ Antes de ejecutar la aplicación, asegúrate de tener instalados los siguientes 
 Elige una opción: 
 
 # Opciones del menú
-## Buscar un libro por título y registrarlo
+
+Buscar un libro por título y registrarlo:
 
 Ingresa el título del libro que deseas buscar. La aplicación buscará el libro usando la API de Gutendex y lo registrará en la base de datos si lo encuentra.
 
-## Listar libros registrados
+Listar libros registrados:
 
 Esta opción lista todos los libros registrados en la base de datos.
 
-## Listar autores registrados
+Listar autores registrados:
 
 Esta opción lista todos los autores registrados en la base de datos.
 
-## Listar autores vivos en un determinado año
+Listar autores vivos en un determinado año:
 
 Ingresa el año para listar los autores que estaban vivos en ese año.
 
-## Listar libros por idioma
+Listar libros por idioma:
 
 Ingresa el idioma para listar todos los libros registrados en ese idioma.
 
-## Salir
+Salir:
 
 Esta opción cierra la aplicación.
 
